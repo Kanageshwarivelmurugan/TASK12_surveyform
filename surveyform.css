@@ -1,0 +1,21 @@
+.checked {
+    color: gold;
+  }
+  .feedback li{
+    
+    color:black;
+    display:inline-block;
+    font-size:20px;
+    margin:40px;
+  }
+  .rad{
+    margin:40px;
+    padding:50px;
+    font-size:20px;
+    display: inline-block;
+  }
+  .textarea{
+    width: 50px;
+    height: 30px;
+    padding: 20px ;
+  }
